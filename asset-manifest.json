@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/PROJECT-2-DEVINMMO/static/js/main.08503408.chunk.js",
+    "main.js.map": "/PROJECT-2-DEVINMMO/static/js/main.08503408.chunk.js.map",
+    "runtime-main.js": "/PROJECT-2-DEVINMMO/static/js/runtime-main.86e9b992.js",
+    "runtime-main.js.map": "/PROJECT-2-DEVINMMO/static/js/runtime-main.86e9b992.js.map",
+    "static/css/2.bbab0f06.chunk.css": "/PROJECT-2-DEVINMMO/static/css/2.bbab0f06.chunk.css",
+    "static/js/2.16e6ada2.chunk.js": "/PROJECT-2-DEVINMMO/static/js/2.16e6ada2.chunk.js",
+    "static/js/2.16e6ada2.chunk.js.map": "/PROJECT-2-DEVINMMO/static/js/2.16e6ada2.chunk.js.map",
+    "index.html": "/PROJECT-2-DEVINMMO/index.html",
+    "static/css/2.bbab0f06.chunk.css.map": "/PROJECT-2-DEVINMMO/static/css/2.bbab0f06.chunk.css.map",
+    "static/js/2.16e6ada2.chunk.js.LICENSE.txt": "/PROJECT-2-DEVINMMO/static/js/2.16e6ada2.chunk.js.LICENSE.txt",
+    "static/media/Background4.02a6059e.jpg": "/PROJECT-2-DEVINMMO/static/media/Background4.02a6059e.jpg",
+    "static/media/300.css": "/PROJECT-2-DEVINMMO/static/media/montserrat-vietnamese-300-normal.43a07f92.woff2",
+    "static/media/index.css": "/PROJECT-2-DEVINMMO/static/media/montserrat-latin-900italic.efcaa0f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86e9b992.js",
+    "static/css/2.bbab0f06.chunk.css",
+    "static/js/2.16e6ada2.chunk.js",
+    "static/js/main.08503408.chunk.js"
+  ]
+}
