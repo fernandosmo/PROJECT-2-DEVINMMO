@@ -12,7 +12,7 @@ const GameList = () => {
       method: 'GET',
       headers: {
         'x-rapidapi-host': 'mmo-games.p.rapidapi.com',
-        'x-rapidapi-key': '2768fdfdb3mshc3bfe71a9983794p16b2d3jsn42669ce7aa62',
+        'x-rapidapi-key': '1d2d71b1d1mshd95b1636d349336p10c343jsn3d86a33a1e0c',
       },
     };
 
