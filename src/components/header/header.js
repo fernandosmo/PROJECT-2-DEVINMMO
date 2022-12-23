@@ -8,17 +8,17 @@ const Header = () => {
     <Container>
       <div className="header">
         <div className="logo">
-          <h2 onClick={() => navigate(`PROJECT-2-DEVINMMO/`)}>DEVinMMO</h2>
+          <h2 onClick={() => navigate(`/PROJECT-2-DEVINMMO/`)}>DEVinMMO</h2>
         </div>
         <div className="homeBtn">
           <button
             className="button"
-            onClick={() => navigate('PROJECT-2-DEVINMMO/')}>
+            onClick={() => navigate('/PROJECT-2-DEVINMMO/')}>
             Home
           </button>
           <button
             className="button"
-            onClick={() => navigate('PROJECT-2-DEVINMMO/news')}>
+            onClick={() => navigate('/PROJECT-2-DEVINMMO/news')}>
             News
           </button>
         </div>
