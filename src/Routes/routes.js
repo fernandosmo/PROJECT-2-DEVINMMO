@@ -1,18 +1,17 @@
 import React from 'react';
-import { Route , Routes } from "react-router-dom";
+import { Route, Routes } from 'react-router-dom';
 
-import GameList from '../pages/home-list/homelist'
-import Details from "../pages/page-details/details";
-import News from "../pages/page-news/news";
-
-
+import GameList from '../pages/home-list/homelist';
+import Details from '../pages/page-details/details';
+import News from '../pages/page-news/news';
 
 export default function PageRoutes() {
-    return (
+  return (
     <Routes>
-        <Route path="/" element={<GameList />} />
-        <Route path="/:gameId" element={<Details />} />
-        <Route path="/news" element={<News />} />
-        <Route path="*" element={<h1>Not Found</h1>} />
-    </Routes>);
+      <Route path="PROJECT-2-DEVINMMO/" element={<GameList />} />
+      <Route path="PROJECT-2-DEVINMMO/:gameId" element={<Details />} />
+      <Route path="PROJECT-2-DEVINMMO/news" element={<News />} />
+      <Route path="*" element={<h1>Not Found</h1>} />
+    </Routes>
+  );
 }
